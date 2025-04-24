@@ -3,6 +3,8 @@
  * @brief Program za upravljanje LED diodom i sleep modom s buđenjem preko tipkala ili watchdog timera.
  */
 
+//Promjene u komentaru
+
 #include <avr/sleep.h>
 #include <avr/wdt.h>
 #include <avr/interrupt.h>
