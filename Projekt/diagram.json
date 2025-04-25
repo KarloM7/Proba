@@ -21,6 +21,13 @@
     },
     {
       "type": "wokwi-hc-sr04",
+      "id": "ultrasonic2",
+      "top": -257.7,
+      "left": 600.7,
+      "attrs": { "distance": "95" }
+    },
+    {
+      "type": "wokwi-hc-sr04",
       "id": "ultrasonic3",
       "top": -257.7,
       "left": 783.1,
