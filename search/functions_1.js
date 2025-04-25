@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['isr_0',['ISR',['../da/d98/sketch_8ino.html#a43905d6fb5c4d433a49f527fa6ab811f',1,'sketch.ino']]]
+  ['lcd_0',['lcd',['../da/d98/sketch_8ino.html#ac21d052bacaf620de472c9d000f0be38',1,'sketch.ino']]],
+  ['loop_1',['loop',['../da/d98/sketch_8ino.html#afe461d27b9c48d5921c00d521181f12f',1,'sketch.ino']]]
 ];
