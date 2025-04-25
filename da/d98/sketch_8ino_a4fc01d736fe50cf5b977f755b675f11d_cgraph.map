@@ -1,0 +1,5 @@
+<map id="setup" name="setup">
+<area shape="rect" id="Node000001" title="Inicijalizacija pinova, serijske komunikacije i interrupta." alt="" coords="5,5,64,31"/>
+<area shape="rect" id="Node000002" href="$da/d98/sketch_8ino.html#abf30b11dec82fa65188f0ff529915442" title="Funkcija koja se poziva prilikom buđenja preko tipkala. Postavlja zastavicu wakeUpByButton na true." alt="" coords="112,5,229,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="64,15,98,15,98,21,64,21"/>
+</map>
